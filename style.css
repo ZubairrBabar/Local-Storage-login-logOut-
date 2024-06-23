@@ -1,0 +1,52 @@
+body{
+    background-image: url(images/background\ photo.webp);
+    background-size: cover;
+}
+.btn-1{
+   
+    border: 1px solid black;
+    
+}
+button:hover{
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+
+.heading {
+    text-align: center;
+    width: 500px;
+ 
+}
+.home-email{
+    margin: 5px 20px 0 0;
+}
+.navbar{
+    width: 100%;
+    background-color: rgb(46, 116, 156);
+    color: white;
+}
+.nav-1{
+   display: flex;
+   justify-content: end;
+   width: 330px;
+   margin-left: 1030px;
+}
+.nav-2{
+width: 100%;
+margin-right: 900px;
+font-weight: bold;
+font-size: 25px;
+}
+
+.lists{
+    background-color: rgb(65, 59, 59);
+    color: white;
+    height: 100px;
+    width: 100%;
+    border: none;
+}
+.lists:hover{
+    background-color:rgb(78, 76, 76) ;
+}
